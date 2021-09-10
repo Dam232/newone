@@ -1,0 +1,2 @@
+*.xml 
+# // This says you can ignor all xml files when commiting to github
